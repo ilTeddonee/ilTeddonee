@@ -1,4 +1,4 @@
-## Hi there 👋
+## Computer science student at University of Milan
 
 <!--
 **ilTeddonee/ilTeddonee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
